@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>dc536930-54b4-4481-b57e-ccfe81c634d2</PackageIdentityName>
     <IntermediateOutputPath>D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>97E534BE7D71053A7856644CFD2C122F922C47F413D291559A695CD48AE6FA4F</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>281C4CA86F285B77B04A9B85D51FC23B4CFA6A6CEEEC79886838753387DAB822</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>dc536930-54b4-4481-b57e-ccfe81c634d2_1.0.0.0_x86__d2g2c35h60jbg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>dc536930-54b4-4481-b57e-ccfe81c634d2_d2g2c35h60jbg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>dc536930-54b4-4481-b57e-ccfe81c634d2</RegisteredPackageID>
@@ -22,13 +22,13 @@
     <AppXManifest Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-27T18:11:54.044</Modified>
+      <Modified>2016-04-28T15:44:53.024</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\bin\x86\Debug\Anime_quiz_UWP.exe">
       <PackagePath>entrypoint\Anime_quiz_UWP.exe</PackagePath>
-      <Modified>2016-04-27T18:11:53.554</Modified>
+      <Modified>2016-04-28T15:44:51.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Student2014\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -558,7 +558,7 @@
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-07-22T11:25:18.000</Modified>
+      <Modified>2016-04-28T15:41:44.155</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
@@ -590,11 +590,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-27T18:09:46.361</Modified>
+      <Modified>2016-04-28T15:44:52.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\bin\x86\Debug\Core\Anime_quiz_UWP.exe">
       <PackagePath>Anime_quiz_UWP.exe</PackagePath>
-      <Modified>2016-04-27T18:11:54.036</Modified>
+      <Modified>2016-04-28T15:44:53.014</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
