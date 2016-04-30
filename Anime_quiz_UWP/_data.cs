@@ -144,7 +144,7 @@ namespace Anime_quiz_UWP
                 LoalData.Values["QuestionDone_20"] = "false";
 
                 //untuk gk nulis berulang
-                LoalData.Values["Version"] = "V1.1";
+                LoalData.Values["Version"] = "V1.2";
             }
         }
        public async void writesuccess(string teks)
