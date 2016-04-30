@@ -21,7 +21,7 @@ namespace Anime_quiz_UWP
         }
         public async void kontroldata()
         {
-            if ((string)LoalData.Values["Version"] != "V1.1")
+            if ((string)LoalData.Values["Version"] != "V1.2")
             {
                 //question 1
                 LoalData.Values["Question_1"] = "Question 1";
@@ -62,7 +62,7 @@ namespace Anime_quiz_UWP
                 //question 7
                 LoalData.Values["Question_7"] = "Question 7";
                 LoalData.Values["QuestionQuestion_7"] = "What is his name ?";
-                LoalData.Values["QuestionAnswer_7"] = "Conan";
+                LoalData.Values["QuestionAnswer_7"] = "Conan Edogawa";
                 LoalData.Values["QuestionDone_7"] = "false";
 
                 //question 8
@@ -74,13 +74,13 @@ namespace Anime_quiz_UWP
                 //question 9
                 LoalData.Values["Question_9"] = "Question 9";
                 LoalData.Values["QuestionQuestion_9"] = "What is his name ?";
-                LoalData.Values["QuestionAnswer_9"] = "Alladin";
+                LoalData.Values["QuestionAnswer_9"] = "Aladdin";
                 LoalData.Values["QuestionDone_9"] = "false";
 
                 //question 10
                 LoalData.Values["Question_10"] = "Question 10";
                 LoalData.Values["QuestionQuestion_10"] = "What is her name ?";
-                LoalData.Values["QuestionAnswer_10"] = "Celty";
+                LoalData.Values["QuestionAnswer_10"] = "Celty Sturluson";
                 LoalData.Values["QuestionDone_10"] = "false";
 
                 //question 11
@@ -110,7 +110,7 @@ namespace Anime_quiz_UWP
                 //question 15
                 LoalData.Values["Question_15"] = "Question 15";
                 LoalData.Values["QuestionQuestion_15"] = "What is his name ?";
-                LoalData.Values["QuestionAnswer_15"] = "Testsuya Kuroko";
+                LoalData.Values["QuestionAnswer_15"] = "Kuroko Testsuya";
                 LoalData.Values["QuestionDone_15"] = "false";
 
                 //question 16
