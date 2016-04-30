@@ -13,7 +13,7 @@
                    FontSize="54" Margin="10,10,10,30" Foreground="#c0392b"  />
             
             <Button x:ConnectionId='2' x:Name="PlayButton" Content="Play" RelativePanel.AlignHorizontalCenterWithPanel="True"
-                RelativePanel.Below="TitleText" Margin="200,200,200,15"  
+                RelativePanel.Below="TitleText" Margin="15"  
                 FontSize="24" Width="150" RequestedTheme="Dark"                          />
 
             <Button x:ConnectionId='3' x:Name="CreditButton" Content="Credit" RelativePanel.AlignHorizontalCenterWithPanel="True"

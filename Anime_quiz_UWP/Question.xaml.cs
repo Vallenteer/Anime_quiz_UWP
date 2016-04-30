@@ -70,6 +70,8 @@ namespace Anime_quiz_UWP
             if (beda == 0)
             {
                 //kasi bener
+                AnswerPlayer.Visibility = Visibility.Collapsed;
+                answbutton.Visibility = Visibility.Collapsed;
                 TheAnswer.Visibility = Visibility;
                 The1.Visibility = Visibility;
                 The.Visibility = Visibility.Collapsed;

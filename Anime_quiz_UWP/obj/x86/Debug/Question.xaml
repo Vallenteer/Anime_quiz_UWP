@@ -8,27 +8,31 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
         <RelativePanel Background="#263238">
             <TextBlock x:ConnectionId='1' x:Name="QuestionText" Text="Question Number" RelativePanel.AlignHorizontalCenterWithPanel="True"
                    FontSize="35" Margin="10,10,10,30" Foreground="#c0392a"  />
-            <Image x:ConnectionId='2' x:Name="image_chara" Source="Assets\PhotoFunia-1461498714.jpg" RelativePanel.AlignHorizontalCenterWithPanel="True" HorizontalAlignment="Center" RelativePanel.Below="QuestionText" Height="180" VerticalAlignment="Top" Width="180"/>
+            <Image x:ConnectionId='2' x:Name="image_chara" Source="Assets\PhotoFunia-1461498714.jpg" RelativePanel.AlignHorizontalCenterWithPanel="True" HorizontalAlignment="Center" RelativePanel.Below="QuestionText" VerticalAlignment="Top" Margin="0,0.333,-5,-0.333" Width="150" Height="150"/>
             <TextBlock x:ConnectionId='3' x:Name="Text_" Text="What is His Name? " RelativePanel.AlignHorizontalCenterWithPanel="True"
-                   FontSize="35" Margin="10,10,10,30" Foreground="#ffffff" RelativePanel.Below="image_chara" FontFamily="Impact" />
+                   FontSize="25" Margin="10,10,10,30" Foreground="#ffffff" RelativePanel.Below="image_chara" FontFamily="Impact" />
             <TextBlock x:ConnectionId='4' x:Name="TheAnswer" Text="The Chara Name " RelativePanel.AlignHorizontalCenterWithPanel="True"
-                   RelativePanel.Below="Text_" FontSize="30" Margin="10,10,10,30" Foreground="#ffffff" FontFamily="Impact" Visibility="Collapsed" />
+                   RelativePanel.Below="Text_" FontSize="20" Margin="10,10,10,30" Foreground="#ffffff" FontFamily="Impact" Visibility="Collapsed" />
             <TextBox x:ConnectionId='5' x:Name="AnswerPlayer" PlaceholderText="Your Answer" RelativePanel.AlignHorizontalCenterWithPanel="True"
-                 RelativePanel.Below="TheAnswer" Margin="15" FontSize="20" Width="250" RequestedTheme="Dark"/>
+                 RelativePanel.Below="TheAnswer" Margin="-14,14.667,43.667,15.333" FontSize="20" RequestedTheme="Dark" Width="130"/>
             <Button x:ConnectionId='6' x:Name="answbutton" Content="Answer" RelativePanel.AlignHorizontalCenterWithPanel="True"
-                RelativePanel.RightOf="AnswerPlayer" Margin="15" RelativePanel.Below="TheAnswer" 
-                FontSize="20" Width="90" RequestedTheme="Dark"                          />
+                 Margin="-38.667,14.667,0,15" RelativePanel.Below="TheAnswer" RelativePanel.RightOf="AnswerPlayer" 
+                FontSize="20" RequestedTheme="Dark"                          />
             <TextBlock x:ConnectionId='7' x:Name="The" Text="Wrong" RelativePanel.AlignHorizontalCenterWithPanel="True"
-                   RelativePanel.Below="AnswerPlayer" FontSize="54" Margin="10,10,10,30" Foreground="#d33" FontWeight="Bold" Visibility="Collapsed" />
+                   RelativePanel.Below="answbutton" FontSize="54" Margin="10,10,10,30" Foreground="#d33" FontWeight="Bold" Visibility="Collapsed" />
             <TextBlock x:ConnectionId='8' x:Name="The1" Text="Correct!!" RelativePanel.AlignHorizontalCenterWithPanel="True"
-                   RelativePanel.Below="AnswerPlayer" FontSize="54" Margin="10,10,10,30" Foreground="#3d3" FontWeight="Bold" Visibility="Collapsed" />
+                   RelativePanel.Below="answbutton" FontSize="54" Margin="10,10,10,30" Foreground="#3d3" FontWeight="Bold" Visibility="Collapsed" />
             <TextBlock x:ConnectionId='9' x:Name="The2" Text="Almost" RelativePanel.AlignHorizontalCenterWithPanel="True"
-                   RelativePanel.Below="AnswerPlayer" FontSize="54" Margin="10,10,10,30" Foreground="#dd3" FontWeight="Bold" Visibility="Collapsed" />
+                   RelativePanel.Below="answbutton" FontSize="54" Margin="10,10,10,30" Foreground="#dd3" FontWeight="Bold" Visibility="Collapsed" UseLayoutRounding="True" />
 
         </RelativePanel>
+
     </Grid>
 </Page>
 
