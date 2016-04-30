@@ -405,8 +405,29 @@
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\PhotoFunia-1461498714.jpg">
       <PackagePath>Assets\PhotoFunia-1461498714.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\logo1.png">
+      <PackagePath>Assets\logo1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\logo2.png">
+      <PackagePath>Assets\logo2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\logo3.png">
+      <PackagePath>Assets\logo3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\logo5.png">
+      <PackagePath>Assets\logo5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\logo88.png">
+      <PackagePath>Assets\logo88.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\small.png">
+      <PackagePath>Assets\small.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\ss.png">
+      <PackagePath>Assets\ss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\store.png">
+      <PackagePath>Assets\store.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -434,6 +455,9 @@
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Andro\Latihan\Anime_quiz_UWP\Anime_quiz_UWP\bin\x86\Debug\Anime_quiz_UWP.xr.xml">
       <PackagePath>Anime_quiz_UWP.xr.xml</PackagePath>

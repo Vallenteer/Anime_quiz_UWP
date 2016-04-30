@@ -137,7 +137,15 @@
     <Content Include="Assets\7.jpg" />
     <Content Include="Assets\8.jpg" />
     <Content Include="Assets\9.jpg" />
+    <Content Include="Assets\logo1.png" />
+    <Content Include="Assets\logo2.png" />
+    <Content Include="Assets\logo3.png" />
+    <Content Include="Assets\logo5.png" />
+    <Content Include="Assets\logo88.png" />
     <Content Include="Assets\PhotoFunia-1461498714.jpg" />
+    <Content Include="Assets\small.png" />
+    <Content Include="Assets\ss.png" />
+    <Content Include="Assets\store.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
