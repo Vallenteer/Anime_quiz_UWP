@@ -1,0 +1,11 @@
+Deskripsi: 
+A simple quiz for every anime fans, that will extend your knowledge about anime and of course have fun.
+
+Note for Tester :
+This apps is for Indonesia Microsoft Student Partner Open Requriment 2016.
+Answer for Question :
+1 : Natsu Dragneel
+2 : Naruto
+3 : Saitama
+if you have already answer correctly, when second time you visit that question, the textbox and button will be disable.
+
